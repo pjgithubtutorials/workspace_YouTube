@@ -1,5 +1,5 @@
 
-print("Hello world, this is Pedram!")
+print("Hello world,  is Pedram!")
 
 def add(x,y):
     return x+y
