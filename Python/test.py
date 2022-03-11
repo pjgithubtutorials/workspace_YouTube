@@ -7,7 +7,7 @@ def add(x,y):
 print(add(10,15))
 
 
-x = 10
+x = 1
 
 
 
